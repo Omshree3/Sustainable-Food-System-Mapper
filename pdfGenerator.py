@@ -1,4 +1,4 @@
-from fpdf import FPDF
+from fpdf import FPDf
 
 pdf = FPDF()
 pdf.set_auto_page_break(auto=True, margin=15)
