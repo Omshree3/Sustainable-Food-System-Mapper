@@ -52,12 +52,11 @@ Python, Flask, HTML, CSS, JavaScript, Leaflet.js, OpenStreetMap, UI/UX design, a
 ## 🖼️ My Work / Proof
 Screenshots of the application interface:
 
-![Interactive Map View](images/Screenshot%202025-08-24%20041834.png)
-![Donation Form](images/Screenshot%202025-08-24%20040950.png)
-![Recipient View](images/Screenshot%202025-08-24%20040936.png)
-![Impact Metrics Dashboard](images/Screenshot%202025-08-24%20040903.png)
+[![Interactive Map View](https://img.shields.io/badge/-Map_View-4CAF50?style=for-the-badge)](https://github.com/Omshree3/Sustainable-Food-System-Mapper/blob/main/images/Screenshot%202025-08-24%20041834.png)
+[![Donation Form](https://img.shields.io/badge/-Donation_Form-2196F3?style=for-the-badge)](https://github.com/Omshree3/Sustainable-Food-System-Mapper/blob/main/images/Screenshot%202025-08-24%20040950.png)
+[![Recipient View](https://img.shields.io/badge/-Recipient_View-FF9800?style=for-the-badge)](https://github.com/Omshree3/Sustainable-Food-System-Mapper/blob/main/images/Screenshot%202025-08-24%20040936.png)
+[![Impact Metrics Dashboard](https://img.shields.io/badge/-Impact_Dashboard-F44336?style=for-the-badge)](https://github.com/Omshree3/Sustainable-Food-System-Mapper/blob/main/images/Screenshot%202025-08-24%20040903.png)
 
-[![Interactive Map View]([https://img.shields.io/badge/-Smart_Summarize-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Smart_Summerizer](https://github.com/Omshree3/Sustainable-Food-System-Mapper/blob/main/images/Screenshot%202025-08-24%20041834.png))
 
 
 ---
