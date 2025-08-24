@@ -57,6 +57,9 @@ Screenshots of the application interface:
 ![Recipient View](images/Screenshot%202025-08-24%20040936.png)
 ![Impact Metrics Dashboard](images/Screenshot%202025-08-24%20040903.png)
 
+[![Interactive Map View]([https://img.shields.io/badge/-Smart_Summarize-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Smart_Summerizer](https://github.com/Omshree3/Sustainable-Food-System-Mapper/blob/main/images/Screenshot%202025-08-24%20041834.png))
+
+
 ---
 
 ## 🌱 Impact & Future Vision
